@@ -1,5 +1,3 @@
 # bookbot
 
-BookBot is my first project!
-
-(but not really)
+A little character counting script to get back into the groove.
